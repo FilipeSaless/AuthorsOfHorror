@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Authors of Horror</title>
+    <link rel="stylesheet" href="./assets/css/styles.css">
+    <script src="./assets/app.js" defer></script>
+    <script src="https://kit.fontawesome.com/61912f5026.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <aside class="sidebar">
+        <button class="sidebar-toggle" aria-label="Abrir menu" type="button">
+            <i class="fa-solid fa-bars"></i>
+        </button>
+        <nav class="icons_profile">
+            <a href="./perfil.html" class="side-link">
+                <i class="fa-solid fa-circle-user"></i>
+                <span>Perfil</span>
+            </a>
+            <a href="./livros.html" class="side-link">
+                <i class="fa-solid fa-book"></i>
+                <span>Livros</span>
+            </a>
+            <a href="./filmes.html" class="side-link">
+                <i class="fa-solid fa-film"></i>
+                <span>Filmes</span>
+            </a>
+            <a href="./favoritos.html" class="side-link side-link-fav">
+                <i class="fa-solid fa-star"></i>
+                <span>Favoritos</span>
+            </a>
+            <a href="./cadastro.html" class="side-link side-link-admin">
+                <i class="fa-solid fa-plus"></i>
+                <span>Cadastro</span>
+            </a>
+        </nav>
+    </aside>
+
+    <header class="header">
+        <h1><a href="./index.html" class="logo-link">Authors of Horror</a></h1>
+        <div class="header-actions">
+            <button class="login">Login</button>
+            <button class="subscribe">Subscribe</button>
+        </div>
+    </header>
+
+    <main>
+
+        <div class="search-box">
+            <input type="text" placeholder="Buscar">
+        </div>
+
+        <section class="authors-section">
+            <div class="authors-carousel-wrapper">
+                <button class="author-btn prev" id="authorsPrev" aria-label="Anterior">
+                    <span>&#10094;</span>
+                </button>
+                <div class="authors-viewport">
+                    <div class="authors-carousel" id="authorsCarousel"></div>
+                </div>
+                <button class="author-btn next" id="authorsNext" aria-label="Próximo">
+                    <span>&#10095;</span>
+                </button>
+                <div class="authors-dots" id="authorsDots"></div>
+            </div>
+        </section>
+
+        <section class="movies-section" id="movies">
+            <h2>Principais Filmes</h2>
+            <div class="movies-grid" id="slider"></div>
+        </section>
+
+        <section class="books-section" id="books">
+            <h2>Principais Livros</h2>
+
+            <div class="books-grid"></div>
+        </section>
+
+        <section class="about-author-section">
+            <h2>Sobre o Autor</h2>
+            <div class="about-author">
+                <div class="about-author-avatar">
+                    <i class="fa-solid fa-user-circle"></i>
+                </div>
+                <div class="about-author-info">
+                    <h3>Filipe Caldeira Sales Souza</h3>
+                    <ul class="about-author-meta">
+                        <li><strong>Curso:</strong> Sistemas de Informação</li>
+                        <li><strong>Turno:</strong> Noite</li>
+                        <li><strong>Matrícula:</strong> 913438</li>
+                    </ul>
+                    <div class="about-author-social">
+                        <a href="https://github.com/filipesaless" target="_blank" rel="noopener" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+                        <a href="https://www.linkedin.com/in/filipesaless/" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+                        <a href="mailto:filipesales2017@gmail.com" aria-label="E-mail"><i class="fa-solid fa-envelope"></i></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Authors of Horror</p>
+        <div class="footer-student">
+            <p><strong>Aluno:</strong> Filipe Caldeira Sales Souza</p>
+            <p><strong>Curso:</strong> Sistemas de Informação</p>
+            <p><strong>Turno:</strong> Noite</p>
+            <p><strong>Matrícula:</strong> 913438</p>
+        </div>
+    </footer>
+
+</body>
+</html>

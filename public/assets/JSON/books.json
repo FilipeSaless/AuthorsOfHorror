@@ -1,0 +1,94 @@
+[
+  {
+    "title": "O Silêncio dos Inocentes",
+    "author": "Thomas Harris",
+    "authorImage": "./images/authors/thomas-harris.png",
+    "description": "A jovem cadete do FBI Clarice Starling é convocada para entrevistar o Dr. Hannibal Lecter, brilhante psiquiatra e canibal mantido em uma prisão de segurança máxima, na esperança de obter pistas sobre Buffalo Bill, um serial killer que sequestra mulheres e arranca a pele de suas vítimas. Lecter, fascinado pela inteligência e pelo passado traumático de Clarice, aceita ajudar em troca de detalhes íntimos de sua vida pessoal, dando início a um jogo psicológico perturbador. Enquanto Clarice corre contra o tempo para salvar a mais recente vítima de Buffalo Bill — filha de uma senadora —, ela precisa decifrar enigmas de Lecter e enfrentar seus próprios medos. Um thriller psicológico denso que explora a fronteira tênue entre caçador e caça, mente e monstro.",
+    "goodreads": "4.3",
+    "image": "./images/books/silencio_dos_inocentes.png",
+    "alt": "O Silêncio dos Inocentes",
+    "availability": {
+      "kindle": true,
+      "appleBooks": true,
+      "googleLivros": true
+    },
+    "adaptations": [
+      { "title": "O Silêncio dos Inocentes (1991)", "image": "./images/books/obras-inspiradas/silencio-dos-inocentes/silence-of-the-lambs.jpg" },
+      { "title": "Hannibal (2001)", "image": "./images/books/obras-inspiradas/silencio-dos-inocentes/hannibal.jpg" },
+      { "title": "Dragão Vermelho (2002)", "image": "./images/books/obras-inspiradas/silencio-dos-inocentes/red-dragon.jpg" },
+      { "title": "Caçador de Assassinos (1986)", "image": "./images/books/obras-inspiradas/silencio-dos-inocentes/manhunter.jpg" }
+    ]
+  },
+  {
+    "title": "Assombração da Casa da Colina",
+    "author": "Shirley Jackson",
+    "authorImage": "./images/authors/shirley-jackson.png",
+    "description": "O Dr. Montague, um acadêmico obcecado pelo sobrenatural, reúne um pequeno grupo de pessoas com supostas sensibilidades psíquicas para passar um verão investigando Hill House, uma mansão isolada com fama de assombrada. Entre os hóspedes está Eleanor Vance, uma mulher solitária e emocionalmente frágil que, pela primeira vez na vida, sente-se vista e acolhida — embora a casa pareça reagir a ela de maneira especialmente intensa. Conforme estranhos eventos começam a se manifestar — batidas nas paredes, escritas misteriosas, presenças invisíveis — torna-se cada vez mais difícil distinguir o que vem da casa e o que vem da mente perturbada de Eleanor. Um clássico do horror psicológico que estabeleceu o modelo moderno das histórias de mansões mal-assombradas.",
+    "goodreads": "3.9",
+    "image": "./images/books/assombracao-da-casa-da-colina.png",
+    "alt": "Assombração da Casa da Colina",
+    "availability": {
+      "kindle": true,
+      "appleBooks": true,
+      "googleLivros": false
+    },
+    "adaptations": [
+      { "title": "Desafio do Além (1963)", "image": "./images/books/obras-inspiradas/casa-da-colina/the-haunting-1963.jpg" },
+      { "title": "A Casa Amaldiçoada (1999)", "image": "./images/books/obras-inspiradas/casa-da-colina/the-haunting-1999.jpg" },
+      { "title": "A Maldição da Residência Hill (2018)", "image": "./images/books/obras-inspiradas/casa-da-colina/haunting-hill-house-2018.jpg" }
+    ]
+  },
+  {
+    "title": "O Bebê de Rosemary",
+    "author": "Ira Levin",
+    "authorImage": "./images/authors/ira-levin.jpg",
+    "description": "Rosemary Woodhouse e seu marido Guy, um ator em busca do sucesso, mudam-se para o Bramford, um antigo edifício em Nova York com uma reputação sombria. Logo eles fazem amizade com os excêntricos vizinhos idosos Minnie e Roman Castevet, que parecem se interessar excessivamente pela vida do casal — especialmente quando Rosemary engravida. Sofrendo dores estranhas, sonhos perturbadores e sob a influência de chás e \"vitaminas\" preparados pelos vizinhos, Rosemary começa a desconfiar de que está cercada por um culto satânico que tem planos para seu filho. Romance de paranoia urbana que se transformou em referência absoluta do horror moderno e em um símbolo do medo da maternidade controlada por forças externas.",
+    "goodreads": "4.0",
+    "image": "./images/books/rosemary-baby.png",
+    "alt": "O Bebê de Rosemary",
+    "availability": {
+      "kindle": true,
+      "appleBooks": true,
+      "googleLivros": true
+    },
+    "adaptations": [
+      { "title": "O Bebê de Rosemary (1968)", "image": "./images/books/obras-inspiradas/rosemary/rosemary-baby-1968.jpg" },
+      { "title": "Apartamento 7A (2024)", "image": "./images/books/obras-inspiradas/rosemary/apartment-7a-2024.jpg" }
+    ]
+  },
+  {
+    "title": "Os Pássaros",
+    "author": "Daphne du Maurier",
+    "authorImage": "./images/authors/daphne-du-maurier.jpg",
+    "description": "Em um pacato vilarejo costeiro da Inglaterra, o trabalhador rural Nat Hocken passa a notar comportamentos cada vez mais agressivos por parte das aves da região, à medida que o frio do inverno se intensifica. Em pouco tempo, bandos inteiros começam a atacar coordenadamente humanos e animais, sem qualquer explicação aparente, transformando o céu em uma ameaça constante. Enquanto o rádio anuncia que o fenômeno se espalha por toda a Grã-Bretanha, Nat se isola em casa com a família, lutando para reforçar portas e janelas e proteger os filhos do cerco implacável. Uma novela curta e brutal de horror naturalista, que inspirou o famoso filme de Alfred Hitchcock.",
+    "goodreads": "4.1",
+    "image": "./images/books/the-birds.png",
+    "alt": "Os Pássaros",
+    "availability": {
+      "kindle": true,
+      "appleBooks": false,
+      "googleLivros": false
+    },
+    "adaptations": [
+      { "title": "Os Pássaros (1963)", "image": "./images/books/obras-inspiradas/passaros/the-birds-1963.jpg" }
+    ]
+  },
+  {
+    "title": "A Mulher de Preto",
+    "author": "Susan Hill",
+    "authorImage": "./images/authors/susan-hill.jpg",
+    "description": "O jovem advogado Arthur Kipps é enviado a uma vila isolada no norte da Inglaterra para organizar os papéis e bens da recém-falecida Alice Drablow, dona da sinistra Eel Marsh House — uma casa acessível apenas por uma estrada que desaparece com a maré alta. Durante o velório, ele avista uma misteriosa mulher vestida de preto, com o rosto consumido pela doença, e percebe que ninguém na cidade parece querer falar sobre ela. Enquanto trabalha sozinho na casa em meio à neblina, sons estranhos e aparições, Arthur descobre uma tragédia antiga que ainda assombra o lugar e que reivindica novas vítimas a cada vez que o espectro é visto. Um romance gótico contemporâneo que resgata a tradição dos contos de fantasmas vitorianos.",
+    "goodreads": "3.8",
+    "image": "./images/books/mulher-de-preto.png",
+    "alt": "A Mulher de Preto",
+    "availability": {
+      "kindle": true,
+      "appleBooks": true,
+      "googleLivros": true
+    },
+    "adaptations": [
+      { "title": "A Mulher de Preto (2012)", "image": "./images/books/obras-inspiradas/mulher-de-preto/woman-in-black-2012.jpg" },
+      { "title": "A Mulher de Preto: Anjo da Morte (2015)", "image": "./images/books/obras-inspiradas/mulher-de-preto/angel-of-death-2015.jpg" }
+    ]
+  }
+]

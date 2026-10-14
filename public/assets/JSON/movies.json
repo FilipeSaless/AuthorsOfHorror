@@ -1,0 +1,92 @@
+[
+  {
+    "title": "It: A Coisa",
+    "description": "Na pacata cidade de Derry, no estado do Maine, sete crianças marginalizadas que se autodenominam \"O Clube dos Otários\" descobrem que uma entidade maligna ancestral se alimenta dos medos mais profundos da população local a cada 27 anos. Essa criatura, que costuma se manifestar como o palhaço dançarino Pennywise, é a responsável pelo desaparecimento de várias crianças, incluindo o irmão caçula de Bill Denbrough, Georgie. Unidos pela amizade e pela determinação de pôr fim ao terror, o grupo enfrenta seus próprios traumas pessoais enquanto se aventura nos esgotos, no subsolo e nos becos sombrios da cidade em busca da Coisa. A jornada coloca à prova a coragem das crianças e revela que o verdadeiro horror muitas vezes está nas pessoas comuns ao seu redor.",
+    "IMDb": "7.2",
+    "image": "./images/movies/it.png",
+    "alt": "It Movie",
+    "availability": {
+      "netflix": false,
+      "hbomax": true,
+      "primevideo": false
+    },
+    "gallery": [
+      { "src": "./images/movies/detalhes/it/1.jpg", "title": "Pennywise emerge do esgoto" },
+      { "src": "./images/movies/detalhes/it/2.jpg", "title": "O Clube dos Otários reunido" },
+      { "src": "./images/movies/detalhes/it/3.jpg", "title": "Confronto na casa de Neibolt" },
+      { "src": "./images/movies/detalhes/it/4.jpg", "title": "Georgie e o barquinho de papel" }
+    ]
+  },
+  {
+    "title": "A Maldição da Residência Hill",
+    "description": "A série acompanha cinco irmãos adultos, os Crain, cuja infância foi marcada por eventos sobrenaturais inexplicáveis na Mansão Hill, uma propriedade que a família restaurava para revender. Anos depois, uma tragédia repentina obriga os irmãos a se reunirem e a confrontarem os fantasmas literais e psicológicos que assombram suas memórias. Alternando entre o presente e o verão fatídico de sua infância, a narrativa expõe como o trauma, a culpa e os segredos da casa moldaram cada um deles de maneira diferente. Aos poucos, eles descobrem que a influência da Hill House nunca os abandonou — e que para se livrar dela talvez precisem voltar onde tudo começou.",
+    "IMDb": "8.6",
+    "image": "./images/movies/haunting-hill-house.png",
+    "alt": "Hill House",
+    "availability": {
+      "netflix": true,
+      "hbomax": false,
+      "primevideo": false
+    },
+    "gallery": [
+      { "src": "./images/movies/detalhes/hill-house/1.jpg", "title": "A fachada da Mansão Hill" },
+      { "src": "./images/movies/detalhes/hill-house/2.jpg", "title": "Os irmãos Crain na infância" },
+      { "src": "./images/movies/detalhes/hill-house/3.jpg", "title": "A Dama do Pescoço Torto" },
+      { "src": "./images/movies/detalhes/hill-house/4.jpg", "title": "O Quarto Vermelho" }
+    ]
+  },
+  {
+    "title": "Doutor Sono",
+    "description": "Décadas após sobreviver aos eventos traumáticos do Hotel Overlook, Danny Torrance vive como um homem destruído pela bebida, tentando enterrar o dom psíquico conhecido como \"iluminação\" e os fantasmas que ainda o perseguem. Quando se estabelece em uma pequena cidade e encontra uma comunidade que o ajuda a se reerguer, Danny passa a usar seus poderes para confortar pacientes em um asilo, ganhando o apelido de \"Doutor Sono\". Sua paz é interrompida ao se conectar telepaticamente com Abra, uma adolescente com habilidades ainda mais fortes que as suas, perseguida por um culto liderado por Rose, a Cartola, que se alimenta da essência psíquica de crianças com o dom. Para protegê-la, Danny precisa enfrentar seu passado de uma vez por todas — inclusive retornando ao Overlook.",
+    "IMDb": "7.3",
+    "image": "./images/movies/doctor-sleep.png",
+    "alt": "Doctor Sleep",
+    "availability": {
+      "netflix": false,
+      "hbomax": true,
+      "primevideo": false
+    },
+    "gallery": [
+      { "src": "./images/movies/detalhes/doctor-sleep/1.jpg", "title": "Danny Torrance adulto" },
+      { "src": "./images/movies/detalhes/doctor-sleep/2.jpg", "title": "Abra Stone usa a iluminação" },
+      { "src": "./images/movies/detalhes/doctor-sleep/3.jpg", "title": "Rose, a Cartola, lidera o Nó Verdadeiro" },
+      { "src": "./images/movies/detalhes/doctor-sleep/4.jpg", "title": "De volta ao Hotel Overlook" }
+    ]
+  },
+  {
+    "title": "O Exorcista",
+    "description": "Em Washington, D.C., a atriz Chris MacNeil percebe mudanças cada vez mais bizarras no comportamento de sua filha de doze anos, Regan, que começa a apresentar sintomas físicos e psicológicos sem explicação médica. Após exames, terapias e tratamentos psiquiátricos fracassarem, Chris recorre desesperadamente à Igreja, convencida de que sua filha está possuída por uma entidade demoníaca. O Padre Karras, um jesuíta atormentado por uma crise de fé após a morte da mãe, é chamado para investigar o caso e logo se une ao experiente Padre Merrin para realizar um exorcismo. O confronto espiritual põe à prova não apenas a fé dos sacerdotes, mas a própria capacidade humana de resistir ao mal absoluto.",
+    "IMDb": "8.1",
+    "image": "./images/movies/the-exorcist.png",
+    "alt": "The Exorcist",
+    "availability": {
+      "netflix": false,
+      "hbomax": false,
+      "primevideo": true
+    },
+    "gallery": [
+      { "src": "./images/movies/detalhes/the-exorcist/1.jpg", "title": "Regan MacNeil possuída" },
+      { "src": "./images/movies/detalhes/the-exorcist/2.jpg", "title": "A chegada do Padre Merrin" },
+      { "src": "./images/movies/detalhes/the-exorcist/3.jpg", "title": "O ritual de exorcismo" },
+      { "src": "./images/movies/detalhes/the-exorcist/4.jpg", "title": "Padre Karras em crise de fé" }
+    ]
+  },
+  {
+    "title": "O Iluminado",
+    "description": "O escritor frustrado Jack Torrance aceita um emprego como zelador de inverno do isolado Hotel Overlook, nas montanhas do Colorado, esperando que a solidão o ajude a vencer um bloqueio criativo e a reconstruir a relação com a esposa Wendy e o filho Danny. O que ele não sabe é que o hotel guarda uma história sombria de violência e que o pequeno Danny possui um dom psíquico — a \"iluminação\" — capaz de revelar as presenças sobrenaturais que ainda habitam o local. À medida que a neve isola a família do mundo, o Overlook começa a manipular a mente de Jack, alimentando seus piores instintos e empurrando-o lentamente à loucura. O que era para ser um refúgio se transforma em uma armadilha mortal de onde mãe e filho precisam escapar.",
+    "IMDb": "8.4",
+    "image": "./images/movies/the-shining.png",
+    "alt": "The Shining",
+    "availability": {
+      "netflix": false,
+      "hbomax": true,
+      "primevideo": false
+    },
+    "gallery": [
+      { "src": "./images/movies/detalhes/the-shining/1.jpg", "title": "A família Torrance chega ao Overlook" },
+      { "src": "./images/movies/detalhes/the-shining/2.jpg", "title": "Danny tem visões pelos corredores" },
+      { "src": "./images/movies/detalhes/the-shining/3.jpg", "title": "Jack enlouquece com a máquina de escrever" },
+      { "src": "./images/movies/detalhes/the-shining/4.jpg", "title": "Fuga pelo labirinto de gelo" }
+    ]
+  }
+]

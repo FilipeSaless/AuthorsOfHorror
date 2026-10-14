@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Stephen King",
+    "fullName": "Stephen Edwin King",
+    "country": "Estados Unidos",
+    "birthDate": "21/09/1947",
+    "deathDate": null,
+    "image": "./images/authors/stephen-king.png",
+    "description": "Escritor norte-americano e um dos maiores nomes do terror moderno, conhecido por explorar o sobrenatural, o psicológico e os medos cotidianos.",
+    "biography": "Nascido em Portland, no Maine, Stephen King começou a publicar contos em revistas pulp ainda na adolescência e estourou comercialmente com seu primeiro romance, \"Carrie, a Estranha\" (1974), inaugurando uma carreira que já vendeu mais de 400 milhões de exemplares em todo o mundo. Sua obra mistura horror sobrenatural, ficção científica, suspense e drama, sempre ambientada em pequenas cidades do interior americano onde o mal cotidiano se confunde com forças antigas. Personagens marcantes como Pennywise, Jack Torrance, Annie Wilkes e Randall Flagg consolidaram King como referência absoluta do terror moderno, e sua vasta lista de adaptações para cinema e TV influencia gerações de cineastas. Além dos romances, é também um ensaísta perspicaz sobre o ofício da escrita em obras como \"Sobre a Escrita\", e é frequentemente apontado como uma das vozes mais produtivas e populares da literatura contemporânea.",
+    "works": ["It: A Coisa", "Doutor Sono", "O Iluminado"],
+    "mainWorks": [
+      { "title": "It: A Coisa", "image": "./images/authors/obras/stephen-king/it.jpg" },
+      { "title": "O Iluminado", "image": "./images/authors/obras/stephen-king/o-iluminado.jpg" },
+      { "title": "Doutor Sono", "image": "./images/authors/obras/stephen-king/doutor-sono.jpg" },
+      { "title": "Carrie, a Estranha", "image": "./images/authors/obras/stephen-king/carrie.jpg" }
+    ]
+  },
+  {
+    "name": "Thomas Harris",
+    "fullName": "William Thomas Harris III",
+    "country": "Estados Unidos",
+    "birthDate": "22/09/1940",
+    "deathDate": null,
+    "image": "./images/authors/thomas-harris.png",
+    "description": "Romancista americano famoso por criar Hannibal Lecter, um dos vilões mais icônicos da ficção, e por seu estilo meticuloso em thrillers psicológicos.",
+    "biography": "Nascido em Jackson, Tennessee, William Thomas Harris III começou a carreira como repórter policial em jornais locais e depois na Associated Press, em Nova York, onde cobriu crimes reais que viriam a influenciar profundamente sua ficção. Famoso por ser extremamente reservado, raramente concede entrevistas e prefere passar anos pesquisando cada novo livro — chegando a acompanhar agentes do FBI em treinamentos e a estudar processos de serial killers para garantir a precisão de suas histórias. É o criador do psiquiatra canibal Hannibal Lecter, um dos vilões mais influentes da literatura contemporânea, protagonista de quatro romances que se tornaram filmes de enorme repercussão, incluindo o vencedor do Oscar \"O Silêncio dos Inocentes\". Ao longo de cinco décadas publicou apenas seis livros, mas cada um deles consolidou seu lugar como mestre do thriller psicológico e referência absoluta no subgênero do horror policial.",
+    "works": ["O Silêncio dos Inocentes"],
+    "mainWorks": [
+      { "title": "O Silêncio dos Inocentes", "image": "./images/books/silencio_dos_inocentes.png" },
+      { "title": "Hannibal", "image": "./images/authors/obras/thomas-harris/hannibal.jpg" },
+      { "title": "Dragão Vermelho", "image": "./images/authors/obras/thomas-harris/red-dragon.jpg" },
+      { "title": "Domingo Negro", "image": "./images/authors/obras/thomas-harris/black-sunday.jpg" }
+    ]
+  },
+  {
+    "name": "Shirley Jackson",
+    "fullName": "Shirley Hardie Jackson",
+    "country": "Estados Unidos",
+    "birthDate": "14/12/1916",
+    "deathDate": "08/08/1965",
+    "image": "./images/authors/shirley-jackson.png",
+    "description": "Autora americana referência no horror gótico e psicológico, mestre em criar atmosferas perturbadoras a partir do cotidiano.",
+    "biography": "Nascida em San Francisco e criada entre a Califórnia e o estado de Nova York, Shirley Jackson construiu sua carreira em meio à vida doméstica em uma pequena cidade de Vermont, onde criou quatro filhos enquanto escrevia ensaios bem-humorados sobre maternidade ao lado de romances cada vez mais sombrios. Seu conto \"A Loteria\", publicado pela revista The New Yorker em 1948, gerou uma das maiores ondas de cartas de protesto da história da publicação e a consolidou como mestre do horror psicológico, capaz de extrair o terror absoluto de cenários aparentemente banais. Romances como \"Assombração da Casa da Colina\" e \"Sempre Vivemos no Castelo\" estabeleceram o modelo moderno das histórias de mansões mal-assombradas e exploraram com profundidade temas como a opressão feminina, isolamento social, paranoia e a fragilidade da sanidade. Morreu prematuramente aos 48 anos, em 1965, mas sua influência é reivindicada por nomes como Stephen King, Neil Gaiman e Joyce Carol Oates como uma das mais importantes vozes da literatura americana do século XX.",
+    "works": ["Assombração da Casa da Colina", "A Maldição da Residência Hill"],
+    "mainWorks": [
+      { "title": "Assombração da Casa da Colina", "image": "./images/books/assombracao-da-casa-da-colina.png" },
+      { "title": "Sempre Vivemos no Castelo", "image": "./images/authors/obras/shirley-jackson/we-have-always-lived.jpg" },
+      { "title": "A Loteria", "image": "./images/authors/obras/shirley-jackson/the-lottery.jpg" }
+    ]
+  },
+  {
+    "name": "Ira Levin",
+    "fullName": "Ira Marvin Levin",
+    "country": "Estados Unidos",
+    "birthDate": "27/08/1929",
+    "deathDate": "12/11/2007",
+    "image": "./images/authors/ira-levin.jpg",
+    "description": "Escritor americano conhecido por thrillers sobrenaturais e satânicos que misturam paranoia urbana com horror psicológico.",
+    "biography": "Nascido em Nova York em uma família judia de classe média, Ira Levin estudou na Universidade de Nova York e começou a carreira escrevendo roteiros para programas de TV antes de estrear na ficção com \"Um Beijo Antes de Morrer\" (1953), thriller que venceu o Edgar Award e revelou seu talento para reviravoltas precisas e mecanismos narrativos quase matemáticos. Em uma carreira marcada por poucos romances, todos enormes sucessos, criou clássicos que pautaram o imaginário do horror urbano: \"O Bebê de Rosemary\" trouxe o satanismo para dentro do apartamento moderno, \"As Esposas de Stepford\" cunhou o termo \"stepford wife\" como sinônimo de submissão programada, e \"Os Meninos do Brasil\" especulou sobre a sobrevivência clandestina de nazistas. Também foi um dramaturgo de enorme sucesso na Broadway, autor de \"Deathtrap\", o thriller de maior duração na história do teatro americano. Faleceu em 2007, deixando uma obra reduzida em volume mas extremamente influente sobre o horror moderno, o cinema e a cultura pop.",
+    "works": ["O Bebê de Rosemary"],
+    "mainWorks": [
+      { "title": "O Bebê de Rosemary", "image": "./images/books/rosemary-baby.png" },
+      { "title": "As Esposas de Stepford", "image": "./images/authors/obras/ira-levin/stepford-wives.jpg" },
+      { "title": "Um Beijo Antes de Morrer", "image": "./images/authors/obras/ira-levin/kiss-before-dying.jpg" },
+      { "title": "Os Meninos do Brasil", "image": "./images/authors/obras/ira-levin/boys-from-brazil.jpg" }
+    ]
+  },
+  {
+    "name": "Daphne du Maurier",
+    "fullName": "Dame Daphne du Maurier",
+    "country": "Reino Unido",
+    "birthDate": "13/05/1907",
+    "deathDate": "19/04/1989",
+    "image": "./images/authors/daphne-du-maurier.jpg",
+    "description": "Autora britânica de suspense e mistério, célebre por histórias sombrias adaptadas ao cinema por nomes como Alfred Hitchcock.",
+    "biography": "Nascida em Londres em 1907, em uma família de artistas e atores célebres, Daphne du Maurier desenvolveu desde cedo paixão pela literatura e pelos cenários sombrios da costa da Cornualha, onde viveu boa parte da vida adulta e onde ambientou várias de suas obras mais marcantes. Estreou aos 24 anos com \"O Espírito do Amor\" e consolidou-se internacionalmente em 1938 com \"Rebecca\", romance gótico que se tornou referência absoluta do gênero e foi adaptado por Alfred Hitchcock no filme vencedor do Oscar de Melhor Filme em 1941. Hitchcock também adaptaria seu conto \"Os Pássaros\" e o romance \"A Estalagem Maldita\", o que aproximou definitivamente a obra de Du Maurier ao imaginário cinematográfico do suspense. Em uma carreira de mais de cinquenta anos publicou mais de quarenta livros entre romances, contos, biografias e ensaios, sempre marcada por uma escrita elegante, tensão psicológica intensa e protagonistas femininas complexas. Foi nomeada Dame Commander do Império Britânico em 1969 e faleceu em 1989, deixando um legado que segue sendo redescoberto e adaptado para o cinema e a televisão.",
+    "works": ["Os Pássaros"],
+    "mainWorks": [
+      { "title": "Rebecca", "image": "./images/authors/obras/daphne-du-maurier/rebecca.jpg" },
+      { "title": "Os Pássaros", "image": "./images/books/the-birds.png" },
+      { "title": "Minha Prima Rachel", "image": "./images/authors/obras/daphne-du-maurier/my-cousin-rachel.jpg" },
+      { "title": "A Estalagem Maldita", "image": "./images/authors/obras/daphne-du-maurier/jamaica-inn.jpg" }
+    ]
+  },
+  {
+    "name": "Susan Hill",
+    "fullName": "Dame Susan Elizabeth Hill",
+    "country": "Reino Unido",
+    "birthDate": "05/02/1942",
+    "deathDate": null,
+    "image": "./images/authors/susan-hill.jpg",
+    "description": "Escritora inglesa premiada, reconhecida por seus romances de fantasmas que resgatam a tradição do horror gótico vitoriano.",
+    "biography": "Nascida em Scarborough, no norte da Inglaterra, Susan Hill começou a escrever ainda adolescente e publicou seu primeiro romance, \"The Enclosure\", aos dezessete anos, antes mesmo de ingressar no King's College de Londres para estudar Literatura Inglesa. Construiu uma carreira sólida e versátil que atravessa gêneros — do drama literário ao romance histórico, da literatura infantil ao horror gótico —, somando mais de cinquenta livros e prêmios importantes como o Somerset Maugham, o Whitbread e o John Llewellyn Rhys. Sua obra mais famosa, \"A Mulher de Preto\" (1983), resgatou a tradição vitoriana das histórias de fantasmas com sofisticação contemporânea e gerou uma das peças de maior duração na história do West End londrino, além de adaptações para cinema e televisão. Também escreve a série policial protagonizada pelo detetive Simon Serrailler, e foi nomeada Dame Commander do Império Britânico em 2020 por seus serviços à literatura, consolidando-se como uma das vozes mais respeitadas da ficção inglesa contemporânea."
+,
+    "works": ["A Mulher de Preto"],
+    "mainWorks": [
+      { "title": "A Mulher de Preto", "image": "./images/books/mulher-de-preto.png" },
+      { "title": "Eu Sou o Rei do Castelo", "image": "./images/authors/obras/susan-hill/king-of-the-castle.jpg" },
+      { "title": "A Bruma no Espelho", "image": "./images/authors/obras/susan-hill/mist-in-the-mirror.jpg" }
+    ]
+  }
+]
